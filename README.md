@@ -40,13 +40,13 @@ This section highlights the technical depth of the data pipeline, proving expert
 *Provides a detailed analysis of the borrower base segmented by credit score, marital status, and education.*
 
 ****
-![Loan Applicant Demographics & Financial Profile](loan_applicant_demographics_&_financial_profile.png) 
+![Loan Applicant Demographics & Financial Profile](loan_applicant_daemographics_&_financial_profile.png) 
 
 ### C. Page 3: Financial Risk Metrics
 *Presents complex metrics like YOY/YTD performance and uses advanced visuals like the Decomposition Tree to identify risk contributors.*
 
 ****
-![Loan Financial Risk Metrics](loan_financial_risk_metrics.png)
+![Loan Financial Risk Metrics](loan_financial_risk_metrices.png)
 
 ---
 
