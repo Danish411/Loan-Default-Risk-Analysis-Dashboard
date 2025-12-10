@@ -34,13 +34,13 @@ This section highlights the technical depth of the data pipeline, proving expert
 *Focuses on overall portfolio health, income, default percentages, and trends over time.*
 
 ****
-![Loan Defaults & Overview](loan_defaults_and_overview.png)
+![Loan Defaults & Overview](loan_defaults_&_overview.png)
 
 ### B. Page 2: Applicant Demographics & Financial Profile
 *Provides a detailed analysis of the borrower base segmented by credit score, marital status, and education.*
 
 ****
-![Loan Applicant Demographics & Financial Profile](loan_applicant_demographics_profile.png)
+![Loan Applicant Demographics & Financial Profile](loan_applicant_demographics_&_financial_profile.png) 
 
 ### C. Page 3: Financial Risk Metrics
 *Presents complex metrics like YOY/YTD performance and uses advanced visuals like the Decomposition Tree to identify risk contributors.*
