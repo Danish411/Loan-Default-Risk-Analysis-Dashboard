@@ -7,11 +7,11 @@ Designed and developed a comprehensive Loan Default & Risk Analysis Power BI Das
 
  Data Modeling: DAX (CALCULATE, SUMX, FILTER, AVERAGEX, MEDIANX, SWITCH, etc.)
 
-### Data Backend: SQL Server (Data Source)
+ Data Backend: SQL Server (Data Source)
 
-### ETL & Automation: Power Query Editor, Power BI Dataflows, Gateway (for Incremental & Scheduled Refresh)
+ ETL & Automation: Power Query Editor, Power BI Dataflows, Gateway (for Incremental & Scheduled Refresh)
 
-### Data Source
+## Data Source
 Data: Loan Default Dataset (Applicant demographics, loan details, and financial risk attributes).
 
 ## 2. ⚙️ Data Engineering & Automation (The ETL Pipeline)
@@ -44,11 +44,12 @@ Provides a detailed analysis of the borrower base segmented by credit score, mar
 Presents complex metrics like YOY/YTD performance and uses advanced visuals like the Decomposition Tree to identify risk contributors.
 
 ## 4. Advanced DAX & Analytical Process
-### Statistical Analysis: Created measures for average income, average loan, and Median loan by credit score bins (MEDIANX).
 
-### Risk Metrics: Built custom measures for Default rate analysis by employment type and year (COUNTROWS, DIVIDE, FILTER, ALLEXCEPT).
+Statistical Analysis: Created measures for average income, average loan, and Median loan by credit score bins (MEDIANX).
 
-### Time Intelligence: Implemented Year-over-Year (YOY) and Year-to-Date (YTD) loan performance analysis.
+Risk Metrics: Built custom measures for Default rate analysis by employment type and year (COUNTROWS, DIVIDE, FILTER, ALLEXCEPT).
+
+Time Intelligence: Implemented Year-over-Year (YOY) and Year-to-Date (YTD) loan performance analysis.
 
 ## 5. Key Achievements & Value Delivered
 Enhanced Decision-Making: Delivered actionable YOY & YTD loan performance insights, enabling leadership to quickly identify anomalies.
