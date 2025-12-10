@@ -3,9 +3,9 @@
 Designed and developed a comprehensive Loan Default & Risk Analysis Power BI Dashboard to quantify and visualize credit risk factors. The project's goal was to provide analysts and stakeholders with real-time, actionable insights to optimize lending strategies and mitigate financial risk.
 
 ## 🛠️ Tools & Technologies (The Advanced BI Stack)
-### Business Intelligence: Power BI (Desktop & Service)
+ Business Intelligence: Power BI (Desktop & Service)
 
-### Data Modeling: DAX (CALCULATE, SUMX, FILTER, AVERAGEX, MEDIANX, SWITCH, etc.)
+ Data Modeling: DAX (CALCULATE, SUMX, FILTER, AVERAGEX, MEDIANX, SWITCH, etc.)
 
 ### Data Backend: SQL Server (Data Source)
 
